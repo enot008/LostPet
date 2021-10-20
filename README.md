@@ -14,7 +14,7 @@ create user admin with password 'superpass123';
 alter role admin set client_encoding to 'utf8';
 alter role admin set default_transaction_isolation to 'read committed';
 alter role admin set timezone to 'UTC';
- 
+После чего необходимо выполнить миграцию бд
  
  А ТАК ЖЕ СКОПИРОВАТЬ ФАЙЛ .gitignore И ВСТАВИТЬ ЕГО В СВОЙ ПРОЕКТ ТУДА ЖЕ ГДЕ ОН СТОИТ У МЕНЯ!!!!
  (кто закинет в репо хлам получит по жопе)
