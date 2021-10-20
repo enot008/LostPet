@@ -10,7 +10,7 @@
 
 Перед стартом серва также следует создать бд введя следующие строки в запросник:
 create database databases;
-create user admin with password 'seperpass123';
+create user admin with password 'superpass123';
 alter role admin set client_encoding to 'utf8';
 alter role admin set default_transaction_isolation to 'read committed';
 alter role admin set timezone to 'UTC';
