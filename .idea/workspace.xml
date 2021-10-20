@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65083675-f554-436d-b9c7-1cf3ed9fecbd" name="Default Changelist" comment="" />
+    <list default="true" id="65083675-f554-436d-b9c7-1cf3ed9fecbd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server/myServer/templates/myServer/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/myServer/templates/myServer/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/myServer/templates/myServer/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/myServer/templates/myServer/tasks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/myServer/templates/myServer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/server/myServer/templates/myServer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/myServer/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/myServer/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/myServer/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/myServer/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1zjoOjxltDe0Kvtm9yOg7HWjERM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,5 +54,17 @@
       <updated>1634670828720</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
